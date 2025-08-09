@@ -1,4 +1,4 @@
-# Excuse--O-Matic-3000
+# Excuse-O-Matic-3000
 Basic Details
 Team Name: Alvira's Team
 
