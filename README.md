@@ -38,7 +38,7 @@ Installation
 
 bash
 Copy
-git clone https://github.com/alviraruchbah/excuse-maker.git
+git clone https://github.com/alviraruchbah/Excuse--O-Matic-3000.git
 Run
 
 Open the index.html file in any modern web browser.
