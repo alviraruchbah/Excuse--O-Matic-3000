@@ -1,4 +1,4 @@
-# Excuse-O-Matic-3000
+# Excuse--O-Matic-3000
 Basic Details
 Team Name: Alvira's Team
 
@@ -6,13 +6,13 @@ Team Members
 Team Lead: Alvira Ruchbah 
 
 Project Description
-A hilarious web app that generates outrageously ridiculous excuses based on any situation you input — perfect for laughs and light-hearted fun!
+A hilarious web app that generates outrageously ridiculous excuses based on any situation you input. Perfect for laughs and light-hearted fun!
 
 The Problem (that doesn't exist)
 People struggle to come up with outrageously funny excuses when they’re late, miss meetings, or just want to entertain friends. Why not make it effortless?
 
 The Solution (that nobody asked for)
-Our Ridiculous Excuse Maker website instantly generates absurd, creative excuses complete with wild “supporting evidence” to keep things entertaining — no believable excuses here, just pure fun!
+Our Ridiculous Excuse Maker website instantly generates absurd, creative excuses complete with wild “supporting evidence” to keep things entertaining. No believable excuses here, just pure fun!
 
 Technical Details
 Technologies/Components Used
@@ -63,6 +63,10 @@ Responsive layout on mobile device.
 
 Project Demo
 Video
+
+https://github.com/user-attachments/assets/6f6f7f9d-1bae-4b2d-bb9a-dce8485ac1cf
+
+
 
 This video shows how to use the Ridiculous Excuse Maker website and examples of generated excuses.
 
